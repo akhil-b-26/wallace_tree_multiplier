@@ -1,4 +1,5 @@
 `timescale 1ns / 1ps
+
 module wallace_tree_structural (
     input  wire clk,
     input  wire rst,
