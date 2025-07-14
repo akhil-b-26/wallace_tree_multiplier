@@ -41,9 +41,10 @@ Completely modeled at the **gate/module level**, mimicking industrial RTL develo
 
 ## 📷 Waveform Output
 
-> 📸 *Waveform simulation results are shown below to verify correct pipelined output generation.*
+> 📸 *Waveform simulation result is shown below to verify correct pipelined output generation.*
 
-![waveform](waveform.png)
+<img width="1895" height="900" alt="waveform" src="https://github.com/user-attachments/assets/80babb30-f431-402b-a44c-801b1617dbb1" />
+
 
 ---
 
